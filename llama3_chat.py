@@ -7,7 +7,7 @@ from streamlit_extras.add_vertical_space import add_vertical_space
 
 import os
 
-st.subheader("We are testing LlaMA model")
+st.subheader("I am working on my LLM bot")
 
 st.markdown("Stay tuned to see the fun")
 
